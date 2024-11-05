@@ -1,10 +1,10 @@
 # desafio-forum-alura - Challenge ONE (Back End)
 
-## 📋 Descrição do Projeto
+##  Descrição do Projeto
 
 Este projeto é uma API REST desenvolvida com Spring Boot, que permite o gerenciamento de tópicos, incluindo funcionalidades de autenticação de usuários. Utiliza JWT para autenticação e segue as melhores práticas de segurança.
 
-## ➕ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Java 17**
 - **Spring Boot**
@@ -13,14 +13,14 @@ Este projeto é uma API REST desenvolvida com Spring Boot, que permite o gerenci
 - **Banco de Dados**: MySQL
 - **Lombok**
 
-## ➕ Funcionalidades
+##  Funcionalidades
 
 - Registro e autenticação de usuários.
 - Criação, listagem, atualização e exclusão de tópicos.
 - Validação de dados de entrada.
 - Retorno de informações detalhadas sobre os tópicos.
 
-## 🛠 Instalação
+##  Instalação
 
 1. **Clone o repositório**
 
